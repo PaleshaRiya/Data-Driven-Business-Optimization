@@ -35,12 +35,11 @@ This project focuses on analyzing and improving financial stability, inventory m
 ✔️ Improve store layout & delivery processes based on customer feedback.  
 
 
-### 📂 Project Files  
+## 📂 Project Files  
 - **Colab Notebooks:** [Link to Google Drive/Colab](#)  
 - **Datasets:** Processed data files provided by the organization used for analysis.  
 
-
-### 👩‍💻 Author  
+## 👩‍💻 Author  
 **Riya Palesha**  
 📍 *IIT Madras | BDM Capstone Project*  
 📧 *21f1003329@ds.study.iitm.ac.in*   
